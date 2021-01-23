@@ -1,0 +1,9 @@
+Na pasta testewp, existem todos os arquivos do Wordpress + o Tema final do rest que construímos.
+
+Existe também o arquivo rest.sql com todo o banco de dados que pode ser importado para o phpMyAdmin
+
+Caso você suba o site e importe do SQL, a senha do wordpress é:
+user: origamid
+pass: hHx6VQ$Juwqhnu@2b1
+
+(No momento você ainda não sabe importar um site para outro servidor, mas no final do curso você saberá).
